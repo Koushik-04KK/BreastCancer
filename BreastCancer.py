@@ -54,7 +54,7 @@ if uploaded_file is not None:
     st.image(image, caption='Uploaded Scan.', use_column_width=True)
     st.write("")
     st.write("Classifying...")
-    label = teachable_machine_classification(image, '/content/Breastcancer.h5')
+    label = teachable_machine_classification(image, 'Breastcancer.h5')
     if label == 0:
         st.write("**Your scan is normal.Take care of your body**.")
     else:
