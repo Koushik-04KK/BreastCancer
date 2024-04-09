@@ -31,7 +31,7 @@ We would like to acknowledge the support and contributions of the entire ONCOSCA
 ---
 
 **Note:** ONCOSCAN is a project developed for educational and research purposes. It is not intended for clinical use without appropriate validation and regulatory approvals.
-
+                                                                     USE GOOGLE COLAB TO RUN THIS WEB APPLICATION
 ![Home page of th web application](img/homepage.jpg)
 ![Breast cancer detection site](img/BreastCancerDetectionSite.jpg)
 ![Lung Cancer detected in the uploaded MRI](img/Lungcancer.jpg)
